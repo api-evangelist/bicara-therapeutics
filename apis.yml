@@ -33,6 +33,13 @@ x-coverage:
 tags:
 - Company
 - Biotechnology
+- Gene Editing
+- Therapeutics
+- Rare Disease
+- Oncology
+tags_raw:
+- Company
+- Biotechnology
 - Gene-Editing
 - Therapeutics
 - Rare-Diseases
