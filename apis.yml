@@ -19,7 +19,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-28'
 
-modified: '2026-09-28'
+modified: '2026-10-06'
 
 x-coverage:
   state: unreadable
@@ -52,6 +52,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://www.bicara.com/feed/
+  type: BlogRSS
 - type: Hosts
   url: hosts/bicara-therapeutics-hosts.yml
 - type: Vendors
